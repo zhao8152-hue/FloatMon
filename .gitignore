@@ -1,0 +1,24 @@
+# Build artifacts
+build/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+
+# IDE
+.vscode/
+.idea/
+
+# WorkBuddy project data
+.workbuddy/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# NVIDIA driver runtime artifacts
+NVIDIA Corporation/
