@@ -1,6 +1,10 @@
 # Build artifacts
 build/
 *.spec
+*.o
+
+# Compiler toolchain
+gcc_big/
 
 # Python
 __pycache__/
